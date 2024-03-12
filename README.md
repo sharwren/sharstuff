@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- ☁️ I’m a technical generalist with broad experience across cloud platforms, CI/CD devops products and Infrastructure as Code
+- ☁️ I’m a technical generalist with broad experience across cloud platforms: building CI/CD devops pipelines and Infrastructure as Code
 - 💞️ I'm passionate about helping people, especially enjoying deep-dives into with Terraform HCL configuration, finding and fixing bugs with the providers & getting people un-stuck
 - 🔭 I’m currently working on automated product installation on K8s PaaS's using terraform IaC
 - 🌱 I’m currently learning all things Azure getting certification-ready
