@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+- ☁️ I’m a Senior Engineer in the HashiCorp Global Terraform Support team - supporting customers running Terraform Enterprise - on aws, azure, gcp, vmware and with replicated, docker, k8s and soon, podman
+- 💞️ I'm passionate about helping people, especially enjoying deep-dives into with Terraform HCL configuration, finding and fixing bugs with the providers & getting people un-stuck
+- 🔭 I’m currently working on automated product installation on K8s PaaS's using terraform IaC
+- 🌱 I’m currently learning all things Azure getting certification-ready
+- 📫 How to reach me: LinkedIn
+- ⚡ Fun fact: It would take only one hour to drive to space
+
+
 <!--
 **sharstuff/sharstuff** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
