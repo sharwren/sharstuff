@@ -1,11 +1,10 @@
 ### Hi there 👋
 
-- ☁️ I’m a technical generalist with devops experience across cloud platforms: building CI/CD pipelines and Infrastructure as Code
-- 💞️ I'm passionate about helping people, especially enjoying deep-dives into with Terraform HCL configuration, finding and fixing bugs with the providers & getting people un-stuck
-- 🔭 I’m currently working on automated product installation on K8s PaaS's using terraform IaC
-- 🌱 I’m currently learning all things Azure getting certification-ready
-- 📫 How to reach me: LinkedIn
-- ⚡ Fun fact: It would take only one hour to drive to space
+- ☁️ I’m a technical generalist with devops experience across cloud platforms
+- 💞️ I'm passionate about getting people unstuck, especially enjoy deep-dives & unpicking issues
+- 🔭 I’m currently working on a secret mission
+- 🌱 I’m currently learning all things Azure getting next-certification-ready
+- 📫 How to reach me: When you know, you know
 
 
 <!--
