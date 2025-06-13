@@ -1,12 +1,3 @@
-### Hi there 👋
-
-- ☁️ I’m a technical generalist with devops experience across cloud platforms
-- 💞️ I'm passionate about getting people unstuck, especially enjoy deep-dives & unpicking issues
-- 🔭 I’m currently working on a secret mission
-- 🌱 I’m currently learning all things Azure getting next-certification-ready
-- 📫 How to reach me: When you know, you know
-
-
 <!--
 **sharstuff/sharstuff** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
